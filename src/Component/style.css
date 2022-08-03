@@ -83,3 +83,7 @@ h1{
     background-color:rgb(180, 97, 58);
     text-shadow:3px 3px 3px black ;
   }
+
+ h2{
+    text-align: center;
+  }
