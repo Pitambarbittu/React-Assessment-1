@@ -12,10 +12,11 @@ function App() {
     <div className="App">
 
      <Common/>
-//     <Functional/>
-//      <Class/>
+    {/* <Functional/>
+     <Class/> */}
     </div>
   );
 }
 
 export default App;
+
